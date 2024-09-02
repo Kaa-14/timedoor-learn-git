@@ -1,0 +1,34 @@
+.banner {
+  width: 100%;
+  height: 100vh;
+}
+
+.background {
+  background-color: aliceblue;
+}
+
+.banner-title {
+  font-size: 56px;
+}
+
+.banner-cover-img {
+  width: 100%;
+  height: 450px;
+}
+
+.search-box {
+  background-color: white;
+  padding: 18px 12px;
+  top: -55px;
+}
+
+.btn-red-primary:hover {
+  background-color: #f38a95bd;
+  color: #fff;
+}
+
+.img-logo {
+  width: 80px;
+  height: auto;
+  margin: 0 auto;
+}
